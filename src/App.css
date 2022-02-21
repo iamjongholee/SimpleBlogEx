@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+/* remind-ex */
+
+* {
+  font-family: 'NanumSquareRoundB'
+}
+
+.black-nav {
+  background-color: black;
+  width: 100%;
+  display: flex;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+.modal {
+  margin-top: 20px;
+  padding: 20px;
+  background: #eee;
+}
